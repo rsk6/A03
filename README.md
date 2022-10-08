@@ -51,4 +51,5 @@ DEFINITIONS :
 <b>Pull</b> - When you are fetching in changes and merging them.
 
 <b>Remote</b> - The version of a repository or branch that is hosted on a server.
-Repository
+
+<b>Repository</b> - The most basic element of GitHub. They're easiest to imagine as a project's folder. 
